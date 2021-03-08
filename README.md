@@ -29,6 +29,7 @@ Desenvolvedor Front-End Mobile.
 **🌱  Em aprendizado ...:**
 
 
+<code><a href="https://nextjs.org/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://nodejs.org/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
 <code><a href="https://elixir-lang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-ar21.svg"></a></code>

@@ -8,13 +8,13 @@ Sou Dev Mobile com foco em React Native e Dev Web com foco em ReactJS/NextJS. Ap
 Fascinated about infinite space. Occupy Mars! :rocket:
 </p>
 
-**💼 **Atualmente trabalho como....:**
+**💼 Atualmente trabalho como....:**
 
 Desenvolvedor Front-End Mobile.
 
 
 
-**💼 ** Com as techs ....:**
+**💼  Com as techs ....:**
 
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://www.typescriptlang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></a></code>
@@ -26,7 +26,7 @@ Desenvolvedor Front-End Mobile.
 
 
 
-**🌱 ** Em aprendizado ...:**
+**🌱  Em aprendizado ...:**
 
 
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>

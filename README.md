@@ -2,19 +2,19 @@
 
 
 <p align="center">
-Sou Dev Mobile com foco em React Native e Dev Web com foco em ReactJS/NextJS. Apaioxado por Linux ❤  e em fase de aprendizado de NodeJS e Elixir 🚧  para quem sabe futuramente ser FulllStack Development  🌱 .
+Sou Dev Mobile com foco em React Native e Dev Web com foco em ReactJS/NextJS. Apaioxado por Linux  ❤  e em fase de aprendizado com NodeJS e Elixir 🚧  ,para quem sabe futuramente ser FulllStack Development  🌱 .
 </p>
 <p align="center">
 Fascinated about infinite space. Occupy Mars! :rocket:
 </p>
 
-**💼 Atualmente trabalho como....:**
+**💼 **Atualmente trabalho como....:**
 
 Desenvolvedor Front-End Mobile.
 
 
 
-**💼  Com as techs ....:**
+**💼 ** Com as techs ....:**
 
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://www.typescriptlang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></a></code>
@@ -26,7 +26,7 @@ Desenvolvedor Front-End Mobile.
 
 
 
-**🌱 Em aprendizado ...:**
+**🌱 ** Em aprendizado ...:**
 
 
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
@@ -35,7 +35,7 @@ Desenvolvedor Front-End Mobile.
 <code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
 
 
-**🌱 Também possuo conhecimento em ...:**
+**🌱 ** Também possuo conhecimento em ...:**
 
 <code><a href="https://www.php.net/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a></code>
 <code><a href="https://html.spec.whatwg.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>

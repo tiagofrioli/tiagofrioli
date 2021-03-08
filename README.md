@@ -48,7 +48,7 @@ Desenvolvedor Front-End Mobile.
   
 
 
-**📫 Reach me at:**<br>
+**📫 Minhas redes:**<br>
 
 [![Linkedin: Mohit Patil](https://img.shields.io/badge/-TiagoFrioli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-frioli-37697629/)](https://www.linkedin.com/in/tiago-frioli-37697629/)
 [![GitHub: Tiago Frioli](https://img.shields.io/github/followers/TiagoFrioli?label=TiagoFrioli&style=social)](https://github.com/tiagofrioli)

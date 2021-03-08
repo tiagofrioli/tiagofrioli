@@ -2,7 +2,7 @@
 
 
 <p align="center">
-Sou Dev Mobile com foco em React Native e Dev Web com foco em ReactJS/NextJS. Apaioxado por Linux ❤ e em fase de aprendizado de NodeJS e Elixir 🚧 para quem sabe futuramente ser FulllStack Development 🌱 .
+Sou Dev Mobile com foco em React Native e Dev Web com foco em ReactJS/NextJS. Apaioxado por Linux ❤  e em fase de aprendizado de NodeJS e Elixir 🚧  para quem sabe futuramente ser FulllStack Development  🌱 .
 </p>
 <p align="center">
 Fascinated about infinite space. Occupy Mars! :rocket:

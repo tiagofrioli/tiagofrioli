@@ -32,7 +32,7 @@
 
 <a href="https://github.com/tiagofrioli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagofrioli&theme=radical&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagofrioli&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagofrioli&theme=radical&layout=compact" />
 </a>
 
 <br/>

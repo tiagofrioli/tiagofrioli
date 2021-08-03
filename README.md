@@ -40,7 +40,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+
 <a href="https://www.linkedin.com/in/tiagofrioli/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Tiago%20Frioli-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="mailto:tiago.frioli@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tiago.frioli@gmail.com-blue?style=flat-square&logo=gmail"></a>

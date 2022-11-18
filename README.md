@@ -50,7 +50,7 @@
 
 <div align="center">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=tiagofrioli.visitor-badge)](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftiagofrioli&label=visitors&countColor=%23263759)
+![https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftiagofrioli&label=visitors&countColor=%23263759
 
 </div>  
 
